@@ -1,18 +1,9 @@
---YameBot--
-a fucking useless discord bot
-----Based on Discord.js Lib---
+  ![imgur](https://img.over-blog-kiwi.com/3/01/32/11/20190122/ob_1de505_dabbingdiscord.png)
+  
+  ## YameTeam -- YameBot
 
-CHANGELOG V1.1.2:
-optimisation du index.js 
-pp 
-clear 
-help avec arguments
-lecture de médias
-ban
-kick
-ajout d'apis:
-iss 
-translate
-pronote
-marmiton
-tronald dump
+  *A fucking useless bot... but version 2.0*
+  
+  La version 2.0 sortira une fois le bot complètement optimisé;
+  notamment avec la simplification des  configurations et l'utilisations des nouvelles fonctionnalités de Discord!
+    
